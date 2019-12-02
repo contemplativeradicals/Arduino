@@ -32,4 +32,4 @@ None
 
 ---
 #### Managed by [Contemplativeradicals](https://contemplativeradicals.com) 
-##### for inconsistancies mailto: admin@contemplativeradicals.com
+##### for inconsistancies mail to: admin@contemplativeradicals.com
