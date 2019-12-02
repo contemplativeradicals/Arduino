@@ -1,4 +1,4 @@
-![alt text](img/Soil Sensor.jpg)
+![alt text](./img/Soil Sensor.jpg)
 
 # 3.5 Inch Soil Sensor
 
