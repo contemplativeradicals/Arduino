@@ -15,36 +15,21 @@ The Soil Moisture Sensor uses capacitance to measure dielectric permittivity of 
 - Interface type:Analog
 - Working Temperature:10°C~30°C
 
-
 ## Connections
 - Vcc to 5V
 - GND to GND
-- A0 to Analog  
+- A0 to Analog Pin  
 
-## External library required
+## External library required for Arduino IDE
 None
 
-## Basic Code
+## Annotations
+- **Vcc:** Positive Voltage 
+- **GND:** Ground Negative 
 
-```cpp
-// select the input pin for the potentiometer
-int sensorPin = A0;
-// variable to store the value coming from the sensor   
-int sensorValue = 0;  
-
-void setup(){
- Serial.begin(9600);  
-}
-
-void loop(){
- // read the value from the sensor:  
- sensorValue = analogRead(sensorPin);  
- delay(1000);          
- Serial.print("sensor = " );                       
- Serial.println(sensorValue);                   
-}
-
-```
+## References 
+<a href="https://en.wikipedia.org/wiki/Amplitude-shift_keying" target="_blank">Amplitude Shift Key (ASK)</a>
 
 ---
 #### Managed by [Contemplativeradicals](https://contemplativeradicals.com) 
+##### for inconsistancies mailto: admin@contemplativeradicals.com
