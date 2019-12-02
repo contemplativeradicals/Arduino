@@ -16,20 +16,35 @@ The Soil Moisture Sensor uses capacitance to measure dielectric permittivity of 
 - Working Temperature:10°C~30°C
 
 
-```cpp
+## Connections
+- Vcc to 5V
+- GND to GND
+- A0 to Analog  
 
-int sensorPin = A0;    // select the input pin for the potentiometer
-int sensorValue = 0;  // variable to store the value coming from the sensor
-void setup()
-{
+## External library required
+None
+
+## Basic Code
+
+```cpp
+// select the input pin for the potentiometer
+int sensorPin = A0;
+// variable to store the value coming from the sensor   
+int sensorValue = 0;  
+
+void setup(){
  Serial.begin(9600);  
 }
-void loop() 
-{
- sensorValue = analogRead(sensorPin);  // read the value from the sensor:  
+
+void loop(){
+ // read the value from the sensor:  
+ sensorValue = analogRead(sensorPin);  
  delay(1000);          
  Serial.print("sensor = " );                       
  Serial.println(sensorValue);                   
 }
 
 ```
+
+---
+#### Managed by [Contemplativeradicals](https://contemplativeradicals.com) 
