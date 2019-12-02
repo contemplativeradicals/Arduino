@@ -1,4 +1,4 @@
-<img src="../img/Soil Sensor.jpg"
+<img src="img/Soil Sensor.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
