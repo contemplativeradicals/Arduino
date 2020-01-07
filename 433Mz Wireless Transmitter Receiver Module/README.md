@@ -47,9 +47,9 @@ None
 - **Rx:** Reciever Pin
 
 ## References 
-<a href="https://en.wikipedia.org/wiki/Amplitude-shift_keying" target="_blank">Amplitude Shift Key (ASK)</a>
-<a href="https://en.wikipedia.org/wiki/Frequency-shift_keying" target="_blank">Frequency Shift Key (FSK)</a>
-<a href="https://en.wikipedia.org/wiki/Phase-locked_loop" target="_blank">Phase Loop Lock(PLL)</a>
+- <a href="https://en.wikipedia.org/wiki/Amplitude-shift_keying" target="_blank">Amplitude Shift Key (ASK)</a>
+- <a href="https://en.wikipedia.org/wiki/Frequency-shift_keying" target="_blank">Frequency Shift Key (FSK)</a>
+- <a href="https://en.wikipedia.org/wiki/Phase-locked_loop" target="_blank">Phase Loop Lock(PLL)</a>
 
 ---
 #### Managed by [Contemplativeradicals](https://contemplativeradicals.com) 

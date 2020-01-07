@@ -28,7 +28,7 @@ None
 - **GND:** Ground Negative 
 
 ## References 
-<a href="https://en.wikipedia.org/wiki/Amplitude-shift_keying" target="_blank">Amplitude Shift Key (ASK)</a>
+- <a href="https://en.wikipedia.org/wiki/Amplitude-shift_keying" target="_blank">Amplitude Shift Key (ASK)</a>
 
 ---
 #### Managed by [Contemplativeradicals](https://contemplativeradicals.com) 
